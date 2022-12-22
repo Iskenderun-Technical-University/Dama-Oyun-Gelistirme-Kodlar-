@@ -64,6 +64,8 @@ namespace DamaOyunu2
             H7.Enabled = false;
 
 
+
+
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -174,7 +176,7 @@ namespace DamaOyunu2
                     textBox1.Enabled = false;
                     comboBox1.Enabled = false;
                     button1.Enabled = false;
-
+A3.Enabled=true;
 
                     A6.Enabled = true;
                     B6.Enabled = true;
